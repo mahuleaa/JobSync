@@ -1,0 +1,79 @@
+Category,Industry Type,Resume
+Wipro,IT,"Endpoint security, Network security, Cloud security, Application security"
+Infosys,IT,"SIEM tools, Firewalls, IDS/IPS"
+Cyient,Engineering,"UBA tools, EDR tools"
+HCL Technologies,IT,"Vulnerability management, Security orchestration, automation and response (SOAR), Threat intelligence"
+Tech Mahindra,IT,"Data loss prevention (DLP), Managed security services (MSS), Security awareness training"
+Zscaler India,IT Security,"Cloud security, Zero trust network access (ZTNA)"
+Sequretek,IT Security,"Network security, Endpoint security, Vulnerability management, Managed detection and response (MDR)"
+Mu Sigma,Analytics & Decision Sciences,"Hadoop, Spark, Python (libraries like NumPy, Pandas, Scikit-learn), R, Machine Learning, Deep Learning"
+Fractal Analytics,AI & Analytics,"Cloud platforms (AWS, Azure, GCP), Big data tools (Hadoop, Spark), Machine Learning, Artificial Intelligence"
+Accenture India,Professional Services,"Advanced analytics tools (Tableau, QlikView), Data visualization tools, Machine Learning, Big data platforms"
+Gramener,Data Science Platform,"Data visualization tools, Business intelligence (BI) tools, Machine Learning, Cloud platforms (AWS, Azure, GCP)"
+LatentView Analytics,Digital Analytics,"Marketing analytics tools (Google Analytics, Adobe Analytics), Customer relationship management (CRM) tools, Data visualization tools, Machine Learning"
+TCS (Tata Consultancy Services),IT,"Hadoop, Spark, Machine Learning, Deep Learning, Big data analytics tools"
+Wipro,IT,"Cloud platforms (AWS, Azure, GCP), Business intelligence (BI) tools, Data warehousing, Data mining"
+Infosys, ,"Data visualization tools, Advanced analytics tools, Machine Learning, Big data platforms"
+Impetus Consulting,Data Engineering & Analytics,"Data management platforms, Data lakes, Cloud platforms (AWS, Azure, GCP), Machine Learning"
+Capgemini India,IT Consulting,"Business intelligence (BI) tools, Data visualization tools, Data warehousing, Machine Learning"
+Aalpha Information Systems,IT Services,Custom RPA solutions for startups and enterprises
+Signity Solutions,Software Development,"High-performance, custom RPA solutions"
+Opteamix,Automation Consulting,"RPA alongside AI, DevOps, and other automation technologies"
+EPSoft Technologies,AI & Automation,RPA platform (EZFlow) with a focus on AI integration
+OrangeMantra,IT Services,"RPA development for various industries, including healthcare"
+UiPath India,RPA Software,Leading global RPA platform provider with a strong presence in India
+Automation Anywhere India,RPA Software,Another major RPA platform provider with an Indian branch
+Tata Advanced Systems (TAS),Engineering & Defence,RPA solutions for complex industrial processes
+Hexaware Technologies,IT Services,RPA along with digital transformation and business process outsourcing
+Mindtree,IT Consulting,RPA for automating IT and business processes
+Quantlabs,Metaverse Platforms,"Offers Versez, a 3D customizable metaverse platform, Vaunt (3D e-commerce with AAA graphics), and Vascos (2D map-based metaverse for real and fictional worlds)."
+DesignOMeta,Educational Metaverse,"Creates a ""parallel verse"" for experiential learning and skill development in India, using gamification features."
+Innoviz,Metaverse Architecture,Provides solutions for building and managing virtual spaces within the metaverse.
+Robu.in,Metaverse Infrastructure,Develops metaverse infrastructure tools and platforms for creators and businesses.
+Jungle Ventures,Metaverse Investment,Investment firm focusing on metaverse-related startups and technologies.
+HCL Technologies,Metaverse Development,Leverages their tech know-how to create immersive virtual worlds for various applications.
+Tech Mahindra,Metaverse Solutions,Utilizes AR and VR technologies to design superior virtual environments for diverse purposes.
+Infosys,Metaverse Exploration,Explores the potential of metaverse technologies for various industries.
+Wipro,Metaverse Applications,Focuses on creating virtual environments for socializing and entertainment.
+Fingent,Metaverse Development Services,Offers development services to build custom metaverse experiences.
+TCS (Tata Consultancy Services),IT,"AI for enterprise automation, IT infrastructure management, and risk management"
+Wipro,IT,"AI for customer service chatbots, fraud detection, and business process automation"
+Infosys,IT,"AI for product development, healthcare diagnostics, and predictive maintenance"
+HCL Technologies,IT Consulting,"AI for talent acquisition, supply chain optimization, and marketing analytics"
+Tech Mahindra,IT,"AI for network optimization, connected vehicles, and smart cities"
+Indus Net Technologies,IT & Manufacturing,"AI for industrial automation, quality control, and predictive maintenance"
+SigTuple,Healthcare,"AI for medical imaging analysis, disease diagnosis, and drug discovery"
+Milagrow Robots,Robotics,"AI for autonomous mobile robots, industrial automation, and logistics"
+Igloo,Fintech,"AI for fraud detection, credit risk assessment, and personalized financial services"
+Phrase AI,SaaS,AI for multilingual machine translation and content localization
+​​Arya.ai,Agtech,"AI for precision agriculture, crop yield prediction, and disease detection"
+Mahindra & Mahindra Ltd. (Manufacturing),Automotive,"Predictive maintenance, Quality control, Supply chain optimization"
+Flipkart (E-commerce),Retail,"Product recommendations, Fraud detection, Personalized marketing"
+Upstox (FinTech),Financial Services,"Algorithmic trading, Credit risk assessment, Chatbots for financial advice"
+NxtGen Ayurveda (Healthcare),Ayurveda,"Personalized medicine,  Drug discovery,  Treatment recommendations"
+GreyOrange (Logistics),Logistics & Supply Chain,"Warehouse automation,  Route optimization,  Demand forecasting"
+Igloo (India) Foods Ltd. (Food & Beverage),Food Processing,"Quality control,  Yield optimization,  Inventory management"
+99acres.com (Real Estate),Real Estate,"Property valuation,  Market trend analysis,  Lead generation"
+Vedantu (EdTech),Education,"Personalized learning,  Adaptive assessments,  Content recommendation"
+SigTuple (Healthcare IT),Healthcare,"Medical image analysis,  Disease prediction,  Drug discovery assistance"
+Milagrow Robots India Pvt Ltd (Robotics),Robotics,"Robot path planning,  Object recognition,  Behavior optimization"
+Aalpha Information Systems,IT Services,"Chatbots, Sentiment analysis, Text summarization"
+Moveworks,Software,Conversational AI for automating IT workflows
+Expertia.ai,HR Tech,AI-powered resume screening and candidate matching using NLP
+Saarthi.ai,"Telecommunications, E-commerce",Multilingual virtual assistants and chatbots
+Guavus,Telecom Analytics,Network traffic analysis and customer behavior insights with NLP
+Indraprastha Computing Centre (IPCC),Government Services,NLP for analyzing public sentiment and generating reports
+Vahan.ai,Automotive,AI-powered car assistants and voice commands
+GreyOrange,Logistics & Warehousing,Warehouse optimization with NLP-powered voice picking systems
+SigTuple,Healthcare,Automated medical report analysis using NLP
+Vnxt Technologies,Media & Entertainment,Automatic content tagging and summarization using NLP
+CodeMate (Startup),Software Development,AI-powered programming assistant for generating code
+Neuropixel AI (Startup),Retail,Generative AI for creating personalized product recommendations and storefront experiences
+LetsVenture,Investment Banking,AI-powered content generation for financial reports and market analysis
+Pepper Content,Content Marketing,"Generative AI for creating different content formats like blog posts, social media content, and product descriptions"
+Whistler.ai (Startup),Marketing & Advertising,"Generative AI for creating marketing copy, ad creatives, and personalized email campaigns"
+​​OGO Originals,Media & Entertainment,Generative AI for creating personalized movie trailers and video content
+​​Milagrow,Robotics,Generative AI for developing robots with improved natural language interaction capabilities
+​​​​PiQuor (Startup),E-learning,Generative AI for creating personalized learning materials and adaptive assessments
+​​​​Manthan AI (Startup),Design & Fashion,Generative AI for creating new product designs and fashion trends
+​​​​Whatfix,Software Development,Generative AI for creating interactive user guides and tutorials

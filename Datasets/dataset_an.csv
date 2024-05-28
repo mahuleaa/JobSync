@@ -1,0 +1,87 @@
+Company,Industry,Tech Stack (Primary Focus),
+Urban Company,Home Services,"Frontend: React Native (Mobile App), Swift (iOS App); Backend: Node.js, Express.js; Database: PostgreSQL; Cloud: AWS",
+Pine Labs,Fintech (Payment Processing),"Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: MySQL; Cloud: Multi-Cloud (AWS, GCP)",
+Druva,Cloud Data Management & Protection,"Frontend: React, JavaScript, HTML, CSS; Backend: Go; Database: Cassandra; Cloud: Multi-Cloud (AWS, GCP, Azure)",
+HackerRank,Tech Hiring Platform,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL; Cloud: AWS",
+Zoho,Cloud-based Office Suite,"Frontend: React, JavaScript, HTML, CSS; Backend: Multiple languages (Java, Python, C++); Database: PostgreSQL; Cloud: Multi-Cloud (AWS, GCP, Azure)",
+FirstCry,E-commerce (Baby & Kids),"Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: MySQL; Cloud: AWS",
+MakemyShift,Staffing & Recruitment,"Frontend: React, JavaScript, HTML, CSS; Backend: Node.js, Express.js; Database: MongoDB; Cloud: Google Cloud Platform (GCP)",
+Ola Electric,Electric Vehicles,"Focus on R&D using Python, Machine Learning frameworks, and Cloud-based platforms (specifics not publicly available)",
+Meesho,Social Commerce,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Python, Flask; Database: MySQL; Cloud: Google Cloud Platform (GCP)",
+Delhivery,Logistics,"Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: PostgreSQL; Cloud: Multi-Cloud (AWS, GCP)",
+Unacademy,EdTech,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Node.js, Express.js; Database: MongoDB; Cloud: Amazon Web Services (AWS)",
+Rivigo,Logistics & Trucking,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL; Cloud: Multi-Cloud (AWS, Azure)",
+RedBus,Online Bus Booking,"Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: Oracle; Cloud: Microsoft Azure",
+BankBazaar,Fintech (Financial Aggregator),"Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: MySQL; Cloud: Multi-Cloud (AWS, GCP)",
+CarDekho,E-commerce (Automobiles),"Frontend: React, JavaScript, HTML, CSS; Backend: Node.js, Express.js; Database: MongoDB; Cloud: Multi-Cloud (AWS, GCP)",
+Zomato Now,Instant Delivery,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Python, Django (with focus on microservices); Database: MySQL; Cloud: Google Cloud Platform (GCP)",
+Lenskart,Retail (Eyewear),"Frontend: React, JavaScript, HTML, CSS; Backend: Node.js, Express.js; Database: MySQL; Cloud: AWS",
+Bigbasket,E-grocery,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL; Cloud: Multi-Cloud (AWS, GCP)",
+Nykaa,E-commerce (Beauty),"Frontend: React Native (Mobile App), JavaScript; Backend: Java, Spring Boot; Database: Oracle; Cloud: Microsoft Azure",
+OYO Rooms,Hospitality,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Python, Flask; Database: MySQL; Cloud: Google Cloud Platform (GCP)",
+Zerodha,Fintech (Investments),"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL; Cloud: Multi-Cloud (AWS, GCP)",
+CureFit,Health & Wellness,"Frontend: React Native (Mobile App), Kotlin (Android App), Swift (iOS App); Backend: Node.js, Express.js; Database: MongoDB; Cloud: AWS",
+Practo,Healthcare,"Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: MySQL; Cloud: Amazon Web Services (AWS)",
+BrowserStack,Software Testing,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: MongoDB; Cloud: Multi-Cloud (AWS, GCP)",
+Byju's,EdTech,"Frontend: React, JavaScript, HTML, CSS; Backend: Node.js, Express.js; Database: MongoDB; Cloud: AWS",
+Paytm,Fintech (Payments),"Frontend: React Native (Mobile App), Kotlin (Android App), Swift (iOS App); Backend: Java, Spring Boot; Database: MySQL; Cloud: Alibaba Cloud",
+Ola Cabs,Transportation,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Node.js, Express.js; Database: PostgreSQL; Cloud: AWS",
+Udaan,B2B Marketplace,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL; Cloud: Multi-Cloud (AWS, GCP)",
+InfoSys,IT Services,"Frontend: Angular, React, JavaScript, HTML, CSS; Backend: Java, Spring Boot, Python; Database: Oracle, MySQL; Cloud: Multi-Cloud (AWS, GCP, Azure)",
+TCS,IT Services,"Frontend: Angular, React, JavaScript, HTML, CSS; Backend: Java, Spring Boot, Python; Database: Oracle, MySQL; Cloud: Multi-Cloud (AWS, GCP, Azure)",
+Wipro,IT Services,"Frontend: Angular, React, JavaScript, HTML, CSS; Backend: Java, Spring Boot, Python; Database: Oracle, MySQL; Cloud: Multi-Cloud (AWS, GCP, Azure)",
+Freshworks,SaaS (Customer Service),"Frontend: React, JavaScript, HTML, CSS; Backend: Ruby on Rails; Database: PostgreSQL; Cloud: AWS",
+Flipkart,E-commerce,"Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: MySQL; Cloud: AWS",
+Zomato,Food Delivery,"Frontend: React Native (Mobile App), JavaScript; Backend: Node.js, Express.js; Database: PostgreSQL; Cloud: Google Cloud Platform (GCP)",
+Swiggy,Food Delivery,"Frontend: React Native (Mobile App), JavaScript; Backend: Python, Django; Database: MySQL; Cloud: AWS",
+InMobi,Advertising,"Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: Cassandra; Cloud: Multi-Cloud (AWS, GCP)",
+MakeMyTrip,Online Travel,"Frontend: Angular, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: Oracle; Cloud: AWS",
+PolicyBazaar,Insurtech,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL; Cloud: AWS",
+PhonePe,Fintech (Payments),"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Java, Spring Boot; Database: MySQL; Cloud: Google Cloud Platform (GCP)",
+1mg,E-pharmacy,"Frontend: React, JavaScript; Backend: Java, Spring Boot; Database: MySQL; Cloud: AWS",
+Pharmeasy,E-pharmacy,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Node.js, Express.js; Database: PostgreSQL; Cloud: Multi-Cloud (AWS, GCP)",
+Netmeds,E-pharmacy,"Frontend: React, JavaScript; Backend: Java, Spring Boot; Database: MySQL; Cloud: Google Cloud Platform (GCP)",
+Vedantu,EdTech,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Python, Django (microservices architecture); Database: PostgreSQL; Cloud: AWS",
+Great Learning,Professional Education,"Frontend: React, JavaScript; Backend: Java, Spring Boot; Database: MySQL; Cloud: AWS",
+CarWale,E-commerce (Used Cars),"Frontend: React, JavaScript; Backend: Node.js, Express.js; Database: MySQL; Cloud: Multi-Cloud (AWS, GCP)",
+BikeWale,E-commerce (Two Wheelers),"Frontend: React, JavaScript; Backend: Node.js, Express.js; Database: MySQL; Cloud: Multi-Cloud (AWS, GCP)",
+Housing.com,Real Estate,"Frontend: React, JavaScript; Backend: Java, Spring Boot; Database: MySQL; Cloud: AWS",
+Nestaway,Managed Accommodation,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Python, Flask; Database: MySQL; Cloud: Google Cloud Platform (GCP)",
+Postman,API Development Platform,"Frontend: React, JavaScript; Backend: Node.js, Express.js; Database: MongoDB; Cloud: AWS",
+Zeta (Zeta Suite),Fintech (Fintech Infrastructure),"Backend: Java, Spring Boot (microservices architecture); Database: PostgreSQL; Cloud: Multi-Cloud (AWS, GCP)",
+Freshworks,Customer Relationship Management (CRM),"Frontend: React, JavaScript; Backend: Ruby on Rails; Database: PostgreSQL; Cloud: AWS",
+Practo,Healthcare Platform,"Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: MySQL; Cloud: Amazon Web Services (AWS)",
+UpGrad,Professional Education,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL; Cloud: AWS",
+Unacademy,EdTech Platform,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Node.js, Express.js; Database: MongoDB; Cloud: Amazon Web Services (AWS)",
+BYJU'S,EdTech,"Frontend: React, JavaScript, HTML, CSS; Backend: Node.js, Express.js; Database: MongoDB; Cloud: AWS",
+CRED,Credit Management,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Node.js, Express.js; Database: MySQL; Cloud: AWS",
+Groww,Investment Platform,"Frontend: React, JavaScript; Backend: Python, Django; Database: PostgreSQL; Cloud: AWS",
+Zerodha,Investments,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL; Cloud: Multi-Cloud (AWS, GCP)",
+Policybazaar,InsurTech,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL; Cloud: AWS",
+Practo,Healthcare Platform,"Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: MySQL; Cloud: Amazon Web Services (AWS)",
+UpGrad,Professional Education,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL; Cloud: AWS",
+Unacademy,EdTech Platform,"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Node.js, Express.js; Database: MongoDB; Cloud: Amazon Web Services (AWS)",
+Rivigo,Logistics & Trucking,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL","Multi-Cloud (AWS, Azure)"
+Pine Labs,"Fintech (Payment Processing & Buy Now, Pay Later)","Frontend: React, JavaScript, HTML, CSS; Backend: Java, Spring Boot; Database: MySQL","Multi-Cloud (AWS, GCP)"
+BrowserStack,Cloud-based Web Testing Platform,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: MongoDB","Multi-Cloud (AWS, GCP)"
+Druva,Cloud Data Management & Protection,"Frontend: React, JavaScript, HTML, CSS; Backend: Go; Database: Cassandra","Multi-Cloud (AWS, GCP, Azure)"
+HackerRank,Tech Hiring Platform,"Frontend: React, JavaScript, HTML, CSS; Backend: Python, Django; Database: PostgreSQL",AWS
+DeHaat,Agritech (Farmer-to-Business Platform),"Frontend: React, JavaScript; Backend: Python, Django (microservices); Database: PostgreSQL",AWS
+Ninjacart,Agritech (Supply Chain Management),"Frontend: React, JavaScript; Backend: Java, Spring Boot; Database: MySQL","Multi-Cloud (AWS, GCP)"
+BlackBuck,Logistics & Supply Chain (Marketplace),"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Node.js, Express.js; Database: MySQL","Multi-Cloud (AWS, GCP)"
+ZestMoney,Fintech (Consumer Lending),"Frontend: React, JavaScript; Backend: Java, Spring Boot; Database: MySQL","Multi-Cloud (AWS, GCP)"
+Solar Mango,Sustainability (Solar Energy Solutions),"Mobile App Development (various technologies); Cloud: Multi-Cloud (AWS, Azure)",
+BatteryPool,Cleantech (Electric Vehicle Battery Swapping),"Backend: Java, Spring Boot; Cloud: AWS",
+Dream11,Gaming & Entertainment (Fantasy Sports),"Frontend: React Native (Mobile App), Kotlin (Android App), Swift (iOS App); Backend: Node.js, Express.js; Database: Cassandra","Multi-Cloud (AWS, GCP)"
+MPL (Mobile Premier League),Gaming & Entertainment (Mobile E-sports),"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Node.js, Express.js; Database: MySQL","Multi-Cloud (AWS, GCP)"
+Milagrow (Robotics),AI & Machine Learning (Home Appliances & Robotics),R&D using AI & Robotics,"Multi-Cloud (AWS, Azure)"
+Igloo (Logistics Automation),AI & Machine Learning (Warehouse Automation),"Backend: Python (focus on AI); Cloud: Multi-Cloud (AWS, GCP)",
+vPhrase AI,AI & Machine Learning (Conversational AI Platform),"Frontend: React, JavaScript; Backend: Python (Deep Learning frameworks); Cloud-based Databases","Multi-Cloud (AWS, GCP)"
+Sigfox India,IoT & Connected Devices (IoT Network Provider),Backend: Low-power wide-area network (LPWAN) for IoT,"Multi-Cloud (AWS, Azure)"
+Securfarms,IoT & Connected Devices (Agri-IoT Solutions),Focus on developing IoT sensors and analytics platforms for agriculture,"Multi-Cloud (AWS, GCP)"
+Smart Meters,IoT & Connected Devices (Smart Metering Solutions),Backend: Robust communication infrastructure for smart meters,"Multi-Cloud (AWS, Azure)"
+"Ixigo (again, for broader industry coverage)",Blockchain & DLT (Travel Search & Booking),Exploring DLT for secure travel document management,AWS
+Refinery Bazaar,Blockchain & DLT (Trade Finance Platform),Backend: Blockchain-based platform for trade finance,"Multi-Cloud (AWS, Azure)"
+Mu Sigma,Big Data & Analytics (Decision Sciences & Analytics),"Frontend: React, JavaScript; Backend: Java, Python (big data frameworks); Cloud-based databases","Multi-Cloud (AWS, GCP)"
+PhonePe,Emerging Markets (Digital Payments Platform),"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Java, Spring Boot; Database: MySQL",Google Cloud Platform (GCP)
+BharatPe,Emerging Markets (Fintech - QR code based payments),"Frontend: React Native (Mobile App), Kotlin (Android App); Backend: Java, Spring Boot; Database: MySQL",Amazon Web Services (AWS)
